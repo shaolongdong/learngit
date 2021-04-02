@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 no ff.
 no ff 1.
+no ff 2.
